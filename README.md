@@ -40,6 +40,6 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 Your Name - @Harsshad-pawar
 
-Project Link: https://github.com/yourusername/python-practice
+Project Link: https://github.com/Harsshad-pawar/Python-Practice.git
 
 Acknowledgments
