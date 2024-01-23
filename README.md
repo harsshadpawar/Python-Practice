@@ -5,6 +5,8 @@ Welcome to the Python Practice repository! This project is dedicated to those wh
 Getting Started
 To get started with this repository, clone it to your local machine using the following command:
 
+git clone https://github.com/Harsshad-pawar/Python-Practice.git
+
 Ensure you have Python installed on your machine. This repository's code is tested with Python 3.10 and above. You can download Python from the official website.
 
 Contents
